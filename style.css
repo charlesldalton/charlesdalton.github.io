@@ -36,3 +36,10 @@ section {
     border-left: 5px solid #1f4e79;
     margin-bottom: 20px;
 }
+.resume-image {
+    width: 100%;
+    max-width: 900px;
+    display: block;
+    margin: 20px auto;
+    box-shadow: 0px 0px 10px rgba(0,0,0,0.2);
+}
